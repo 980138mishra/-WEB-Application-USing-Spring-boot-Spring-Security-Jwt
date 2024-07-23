@@ -1,4 +1,4 @@
-Step TO Be Followed.
+Step To Be Followed.
 Create Basic Rest API that will return the list of Details like Employee,Student or any other.
 Secure the Rest API by adding security dependecy.
 Use the properties file to create custom username and password for authentication.
